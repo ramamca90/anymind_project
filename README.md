@@ -35,6 +35,12 @@ Anymindgroup assessment - REST API project
     - ![curl_01](https://user-images.githubusercontent.com/34347368/137394748-72567d13-3654-4838-b3b3-b2b7b1d9e0b4.PNG)
     - ![curl_02](https://user-images.githubusercontent.com/34347368/137394780-38c9c9ea-82be-4c3a-ba09-a667821a639b.PNG)
 
+# unit testing - pytest 
+1. pytest framework added for unit testing
+2. tests folder contains all unit tests
+3. we can run the below command for check the status of unit tests
+    - pytest --cov=src/ tests/ -v --junitxml="result.xml" --cov-report xml --cov-report html --html="results/index.html" -vv --disable-warnings
+    - ![pytest_unittesting](https://user-images.githubusercontent.com/34347368/137395453-b7c45285-6e36-41be-be4c-8d2925bb5ddd.PNG)
 
 
    
