@@ -1,3 +1,8 @@
+'''
+   setting up users for authenticating the service
+'''
+
+
 class User(object):
     def __init__(self, id, username, password):
         self.id = id
