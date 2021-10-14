@@ -41,6 +41,9 @@ Anymindgroup assessment - REST API project
 3. we can run the below command for check the status of unit tests
     - pytest --cov=src/ tests/ -v --junitxml="result.xml" --cov-report xml --cov-report html --html="results/index.html" -vv --disable-warnings
     - ![pytest_unittesting](https://user-images.githubusercontent.com/34347368/137395453-b7c45285-6e36-41be-be4c-8d2925bb5ddd.PNG)
+4. code coverage generated at index.html page
+    - ![code_coverage](https://user-images.githubusercontent.com/34347368/137395991-a8001517-ca3d-4d96-a22f-ba033bc53c9c.PNG)
+
 
 
    
