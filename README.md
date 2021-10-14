@@ -21,4 +21,14 @@ Anymindgroup assessment - REST API project
       - sample request
       - curl -H "Accept: application/json" -X GET http://localhost:5000/hashtags/<sample_hashtag>?limit=40
       - sample_hashtag -> Python or Java ..
+    - Get user tweets - return the list of tweets that the user has on his feed in JSON format.
+      - sample request
+      - curl -H "Accept: application/json" -X GET http://localhost:5000/users/<sample_username>?limit=20
+      - sample_username -> twitter or smith ..
+2. There are diffrent methods like file_encrypt, file_decrypt, get_logger etc added in this project
+
+# Test application
+1. Run the app by running below command
+   python src/app.py
+   
    
