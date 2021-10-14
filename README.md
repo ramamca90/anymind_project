@@ -29,6 +29,8 @@ Anymindgroup assessment - REST API project
 
 # Test application
 1. Run the app by running below command
-   python src/app.py
+    - python src/app.py
+    - ![flask_api_running](https://user-images.githubusercontent.com/34347368/137393316-c72e78c6-b14a-46ce-8d3c-d48501c0fb12.PNG)
+
    
    
