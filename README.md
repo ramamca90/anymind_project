@@ -18,7 +18,7 @@ Anymindgroup assessment - REST API project
 # Flask REST Api
 1. This Flask rest api has mainly 2 end points
     - Get tweets by a hashtag - return the list of tweets with the given hashtag.
-      sample request
-      curl -H "Accept: application/json" -X GET http://localhost:5000/hashtags/<sample_hashtag>?limit=40
-      sample_hashtag -> Python or Java ..
+      [sample request]
+      [curl -H "Accept: application/json" -X GET http://localhost:5000/hashtags/<sample_hashtag>?limit=40]
+      [sample_hashtag -> Python or Java ..]
    
