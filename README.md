@@ -7,6 +7,6 @@ Anymind assessment - REST API project
     - conda update conda
     - conda create -n anymind python=3.9.0
     - conda activate anymind
-3 - install requirements.txt packages
+3. install requirements.txt packages
     - pip install -r requirements.txt
      
