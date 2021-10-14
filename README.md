@@ -27,10 +27,15 @@ Anymindgroup assessment - REST API project
       - sample_username -> twitter or smith ..
 2. There are diffrent methods like file_encrypt, file_decrypt, get_logger etc added in this project
 
-# Test application
+# Test the application
 1. Run the app by running below command
     - python src/app.py
     - ![flask_api_running](https://user-images.githubusercontent.com/34347368/137393316-c72e78c6-b14a-46ce-8d3c-d48501c0fb12.PNG)
+2. Run curl commands for both end points
+    - ![curl_01](https://user-images.githubusercontent.com/34347368/137394748-72567d13-3654-4838-b3b3-b2b7b1d9e0b4.PNG)
+    - ![curl_02](https://user-images.githubusercontent.com/34347368/137394780-38c9c9ea-82be-4c3a-ba09-a667821a639b.PNG)
+
+
 
    
    
