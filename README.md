@@ -10,7 +10,7 @@ Anymindgroup assessment - REST API project
 3. install requirements.txt packages
     - pip install -r requirements.txt
 
-# Deployemnt and installation
+# Deployment and installation
 1. Copy the code repo https://github.com/ramamca90/anymind_project.git and place it into locally 
    or setup a build job in CICD pipline(jenkins/Ansible etc) and install the code into target platform
     - ![local_code_repo](https://user-images.githubusercontent.com/34347368/137423666-cd406677-2d09-4490-a2ad-d006e8d88169.PNG)
@@ -22,7 +22,7 @@ Anymindgroup assessment - REST API project
 3. Twitter api has multiple endpoints , refer (https://developer.twitter.com/en/docs/api-reference-index)
 
 # Flask REST Api
-1. This Flask rest api has mainly 2 end points
+1. This Flask rest api has mainly two end points
     - Get tweets by a hashtag - return the list of tweets with the given hashtag.
       - sample request
       - curl -H "Accept: application/json" -X GET http://localhost:5000/hashtags/<sample_hashtag>?limit=40
