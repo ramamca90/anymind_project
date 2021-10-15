@@ -14,7 +14,7 @@ Anymindgroup assessment - REST API project
 1. Copy the code repo https://github.com/ramamca90/anymind_project.git and place it into locally 
    or setup a build job in CICD pipline(jenkins/Ansible etc) and install the code into target platform
     - ![local_code_repo](https://user-images.githubusercontent.com/34347368/137423666-cd406677-2d09-4490-a2ad-d006e8d88169.PNG)
-2. Here **src** folder contau\ins main source code and **tests** folder has unite tests
+2. Here **src** folder contains main source code and **tests** folder has unit tests
 
 # Twitter API access
 1. To access twitter api , we need a developer access, refer (https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
