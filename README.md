@@ -1,4 +1,4 @@
-# anymindgroup_project
+# anymindgroup.com project
 Anymindgroup assessment - REST API project
 
 # It created on below environment
